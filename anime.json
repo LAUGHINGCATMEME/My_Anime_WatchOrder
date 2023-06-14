@@ -648,9 +648,39 @@
         "End Date": "12 Jun 2023"
     },
     "109": {
-        "Name": "Prison School {manga till ch 160}",
+        "Name": "Prison School {manga: 80-210 and last 15 chapters}",
         "Episodes": 12,
         "Start Date": "12 Jun 2023",
         "End Date": "12 Jun 2023"
+    },
+    "110": {
+        "Name": "Code Geass: Lelouch of the Re;surrection",
+        "Episodes": 1,
+        "Start Date": "13 Jun 2023",
+        "End Date": "13 Jun 2023"
+    },
+    "111": {
+        "Name": "The future diary {till ep 10.5}",
+        "Episodes": 9,
+        "Start Date": "13 Jun 2023",
+        "End Date": "13 Jun 2023"
+    },
+    "112": {
+        "Name": "The future diary {10.5 - 26}",
+        "Episodes": 17,
+        "Start Date": "14 Jun 2023",
+        "End Date": "14 Jun 2023"
+    },
+    "113": {
+        "Name": "The future diary ova {Mirai nikki ova}",
+        "Episodes": 1,
+        "Start Date": "14 Jun 2023",
+        "End Date": "14 Jun 2023"
+    },
+    "114": {
+        "Name": "The future diary ova {the future diary redial}",
+        "Episodes": 1,
+        "Start Date": "14 Jun 2023",
+        "End Date": "14 Jun 2023"
     }
 }
