@@ -26,4 +26,5 @@ def add_anime():
     print("New anime entry added successfully!")
 
 
-add_anime()
+while True:
+    add_anime()

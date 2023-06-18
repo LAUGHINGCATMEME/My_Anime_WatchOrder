@@ -682,5 +682,47 @@
         "Episodes": 1,
         "Start Date": "14 Jun 2023",
         "End Date": "14 Jun 2023"
+    },
+    "115": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba {till ep 12}",
+        "Episodes": 12,
+        "Start Date": "16 Jun 2023",
+        "End Date": "16 Jun 2023"
+    },
+    "116": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba {ep 13 -26}",
+        "Episodes": 14,
+        "Start Date": "17 Jun 2023",
+        "End Date": "17 Jun 2023"
+    },
+    "117": {
+        "Name": "Demon Slayer Movie: Mugen Train {till 0:30:00}",
+        "Episodes": 0,
+        "Start Date": "17 Jun 2023",
+        "End Date": "17 Jun 2023"
+    },
+    "118": {
+        "Name": "Demon Slayer Movie: Mugen Train {0:30:00 - end}",
+        "Episodes": 1,
+        "Start Date": "18 Jun 2023",
+        "End Date": "18 Jun 2023"
+    },
+    "119": {
+        "Name": "The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV",
+        "Episodes": 1,
+        "Start Date": "18 Jun 2023",
+        "End Date": "18 Jun 2023"
+    },
+    "120": {
+        "Name": "Demon Slayer: Entertainment District Arc {season 2}",
+        "Episodes": 11,
+        "Start Date": "18 Jun 2023",
+        "End Date": "18 Jun 2023"
+    },
+    "121": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {season 3, till ep 10}",
+        "Episodes": 10,
+        "Start Date": "18 Jun 2023",
+        "End Date": "18 Jun 2023"
     }
 }
