@@ -624,25 +624,25 @@
         "End Date": "09 Jun 2023"
     },
     "105": {
-        "Name": "space brothers {overview}",
+        "Name": "Space Brothers {overview}",
         "Episodes": 0,
         "Start Date": "10 Jun 2023",
         "End Date": "10 Jun 2023"
     },
     "106": {
-        "Name": "space brothers {1-22}",
+        "Name": "Space Brothers {1-22}",
         "Episodes": 22,
         "Start Date": "10 Jun 2023",
         "End Date": "10 Jun 2023"
     },
     "107": {
-        "Name": "space brothers {ep 23-75}",
+        "Name": "Space Brothers {ep 23-75}",
         "Episodes": 53,
         "Start Date": "11 Jun 2023",
         "End Date": "11 Jun 2023"
     },
     "108": {
-        "Name": "space brothers {76-99}",
+        "Name": "Space Brothers {76-99}",
         "Episodes": 24,
         "Start Date": "12 Jun 2023",
         "End Date": "12 Jun 2023"
@@ -738,12 +738,18 @@
         "End Date": "18 Jun 2023"
     },
     "124": {
-        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {ep 11, raw}",
+        "Name": "Attack on Titan: Chronicle {S1 - S3 recap}",
         "Episodes": 1,
         "Start Date": "18 Jun 2023",
         "End Date": "18 Jun 2023"
     },
     "125": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {ep 11, raw}",
+        "Episodes": 1,
+        "Start Date": "18 Jun 2023",
+        "End Date": "18 Jun 2023"
+    },
+    "126": {
         "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {ep 11, Sub}",
         "Episodes": 1,
         "Start Date": "18 Jun 2023",
