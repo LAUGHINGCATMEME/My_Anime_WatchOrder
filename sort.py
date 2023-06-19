@@ -1,11 +1,12 @@
 def compare_names(name1, name2, comparisons):
+    global tpe
     """Compares two names and returns True if name1 should come before name2 in the sorted list."""
     pair = tuple(sorted([name1, name2]))
     if pair in comparisons:
         response = comparisons[pair]
     else:
         while True:
-            response = input(f"Which name should come first: {name1} or {name2}? (Enter 1 for {name1}, 2 for {name2}): ")
+            response = input(f"Which {tpe} should come first: {name1} or {name2}? (Enter 1 or 2): ")
             if response in ['1', '2']:
                 break
             else:
@@ -38,6 +39,8 @@ def merge_sort(name_list, comparisons):
 
 
 def sort_anime():
+    global tpe
+    tpe = "anime"
     with open("anime.txt", "r") as nig:
         sort_list_str = str(nig.read()).split("Watch List:")[0].split("\n")
         sort_list_str.pop()
@@ -58,11 +61,15 @@ def sort_anime():
 
 
 def sort_characters():
+    global tpe
+    tpe = "characters"
     pass
 
 
 # Added an empty string for not watched.
+tpe = ""
 sort_anime()
+#sort_characters()
 
 """
 sort_list = []
