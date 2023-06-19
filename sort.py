@@ -60,11 +60,12 @@ def sort_anime():
 def sort_characters():
     pass
 
+
 # Added an empty string for not watched.
 sort_anime()
 
 """
-sort_list = ["E", "R", "A", "S", "H", "U", "M"]
+sort_list = []
 comparisons = {}
 sorted_names = merge_sort(sort_list, comparisons)
 
