@@ -772,5 +772,17 @@
         "Episodes": 1,
         "Start Date": "19 Jun 2023",
         "End Date": "19 Jun 2023"
+    },
+    "130": {
+        "Name": "No Game, No Life {ep 1 - 6}",
+        "Episodes": 6,
+        "Start Date": "20 Jun 2023",
+        "End Date": "20 Jun 2023"
+    },
+    "131": {
+        "Name": "No Game, No Life {ep 6::}",
+        "Episodes": 6,
+        "Start Date": "21 Jun 2023",
+        "End Date": "21 Jun 2023"
     }
 }
