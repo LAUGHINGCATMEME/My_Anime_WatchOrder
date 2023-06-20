@@ -49,7 +49,7 @@ def sort_anime():
         for i in sort_list_str:
             if i.endswith(" "):
                 i = i[:-1:]
-            sort_list.append(i[3::])
+            sort_list.append(i)
         comparisons = {}
         sorted_names = merge_sort(sort_list, comparisons)
 
