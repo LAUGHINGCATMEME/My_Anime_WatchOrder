@@ -1,3 +1,5 @@
+import json
+
 def compare_names(name1, name2, comparisons):
     global tpe
     """Compares two names and returns True if name1 should come before name2 in the sorted list."""
@@ -56,19 +58,45 @@ def sort_anime():
         print("\nSorted list of names:")
         for name in sorted_names:
             print(name)
-        print()
         exit()
+
+
+def filter_lines(input_string):
+    lines = input_string.split('\n')
+    filtered_lines = []
+
+    for line in lines:
+        if line.strip() == '' or line.strip().startswith('-'):
+            continue
+        filtered_lines.append(line)
+
+    filtered_string = '\n'.join(filtered_lines)
+    return filtered_string
 
 
 def sort_characters():
     global tpe
     tpe = "characters"
-    pass
+    with open("characters.txt", "r") as nig:
+        sort_list_str = str(nig.read())
+        sort_list_str = filter_lines(sort_list_str).split("\n")
+        sort_list = []
+        for i in sort_list_str:
+            if i.endswith(" "):
+                i = i[:-1:]
+            sort_list.append(i)
+        comparisons = {}
+        sorted_names = merge_sort(sort_list, comparisons)
+
+        print("\nSorted list of names:")
+        for name in sorted_names:
+            print(name)
+        exit()
 
 
 # Added an empty string for not watched.
 tpe = ""
-sort_anime()
+#sort_anime()
 #sort_characters()
 
 """
