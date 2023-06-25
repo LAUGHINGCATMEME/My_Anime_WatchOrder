@@ -42,13 +42,13 @@
         "End Date": "18 Jun 2021"
     },
     "8": {
-        "Name": "Code geass S1",
+        "Name": "Code Geass S1",
         "Episodes": 25,
         "Start Date": "24 Jun 2021",
         "End Date": "26 Jun 2021"
     },
     "9": {
-        "Name": "Code geass S2",
+        "Name": "Code Geass S2",
         "Episodes": 25,
         "Start Date": "26 Jun 2021",
         "End Date": "28 Jun 2021"
@@ -72,25 +72,25 @@
         "End Date": "09 Jul 2021"
     },
     "13": {
-        "Name": "Steins;Gate Load Region of D\u00c3\u00a9j\u00c3\u00a0 vu",
+        "Name": "Steins;Gate Load Region of Deja vu",
         "Episodes": 1,
         "Start Date": "10 Jul 2021",
         "End Date": "10 Jul 2021"
     },
     "14": {
-        "Name": "Redo of healer S1 [\u00c2\u00a9] {till ep 2}",
+        "Name": "Redo of healer S1 {cen, till ep 2}",
         "Episodes": 2,
         "Start Date": "10 Jul 2021",
         "End Date": "10 Jul 2021"
     },
     "15": {
-        "Name": "Redo of healer S1 [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "Redo of healer S1 {UC}",
         "Episodes": 12,
         "Start Date": "10 Jul 2021",
         "End Date": "10 Jul 2021"
     },
     "16": {
-        "Name": "High School DXD [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD",
         "Episodes": 12,
         "Start Date": "12 Jul 2021",
         "End Date": "12 Jul 2021"
@@ -102,49 +102,49 @@
         "End Date": "12 Jul 2021"
     },
     "18": {
-        "Name": "High School DXD OVAs[\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD OVAs",
         "Episodes": 2,
         "Start Date": "12 Jul 2021",
         "End Date": "12 Jul 2021"
     },
     "19": {
-        "Name": "High School DXD New [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD New",
         "Episodes": 12,
         "Start Date": "12 Jul 2021",
         "End Date": "13 Jul 2021"
     },
     "20": {
-        "Name": "High School DxD New: Oppai 13 Tsutsumimasu [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DxD New: Oppai 13 Tsutsumimasu",
         "Episodes": 1,
         "Start Date": "13 Jul 2021",
         "End Date": "13 Jul 2021"
     },
     "21": {
-        "Name": "High School DXD Hero {till ep 4} [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD Hero {till ep 4}",
         "Episodes": 4,
         "Start Date": "13 Jul 2021",
         "End Date": "13 Jul 2021"
     },
     "22": {
-        "Name": "High School DXD Born [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD Born",
         "Episodes": 12,
         "Start Date": "13 Jul 2021",
         "End Date": "13 Jul 2021"
     },
     "23": {
-        "Name": "High School DxD BorN: Yomigaeranai Fushichou [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DxD BorN: Yomigaeranai Fushichou",
         "Episodes": 1,
         "Start Date": "14 Jul 2021",
         "End Date": "14 Jul 2021"
     },
     "24": {
-        "Name": "High School DxD Hero: Taiikukan-ura no Holy [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DxD Hero: Taiikukan-ura no Holy",
         "Episodes": 1,
         "Start Date": "14 Jul 2021",
         "End Date": "14 Jul 2021"
     },
     "25": {
-        "Name": "High School DXD Hero [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "High School DXD Hero",
         "Episodes": 12,
         "Start Date": "14 Jul 2021",
         "End Date": "14 Jul 2021"
@@ -156,19 +156,19 @@
         "End Date": "15 Jul 2021"
     },
     "27": {
-        "Name": "To love ru {till ep 2} [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "To love ru {till ep 2}",
         "Episodes": 2,
         "Start Date": "15 Jul 2021",
         "End Date": "15 Jul 2021"
     },
     "28": {
-        "Name": "Shinmai Maou no Testament [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "The Testament of Sister New Devil",
         "Episodes": 12,
         "Start Date": "15 Jul 2021",
         "End Date": "16 Jul 2021"
     },
     "29": {
-        "Name": "Shinmai Maou no Testament Burst [\u00c3\u0153\u00c2\u00a9]",
+        "Name": "The Testament of Sister New Devil: Burst",
         "Episodes": 10,
         "Start Date": "17 Jul 2021",
         "End Date": "19 Jul 2021"
@@ -187,7 +187,7 @@
     },
     "32": {
         "Name": "Nagasarete Airantou {from 2 till ep 4}",
-        "Episodes": 4,
+        "Episodes": 2,
         "Start Date": "27 Jul 2021",
         "End Date": "28 Jul 2021"
     },
@@ -204,7 +204,7 @@
         "End Date": "17 Aug 2021"
     },
     "35": {
-        "Name": "Attack On Titan S4 part 1{till ep 8}",
+        "Name": "Attack On Titan S4 part 1 {till ep 8}",
         "Episodes": 8,
         "Start Date": "21 Aug 2021",
         "End Date": "28 Aug 2021"
@@ -312,49 +312,49 @@
         "End Date": "30 Oct 2021"
     },
     "53": {
-        "Name": "Nanatsu no Taizai",
+        "Name": "The Seven Deadly Sins {S!}",
         "Episodes": 24,
         "Start Date": "01 Nov 2021",
         "End Date": "01 Nov 2021"
     },
     "54": {
-        "Name": "Nanatsu no Taizai OVA",
+        "Name": "The Seven Deadly Sins OVA {ova}",
         "Episodes": 2,
         "Start Date": "02 Nov 2021",
         "End Date": "02 Nov 2021"
     },
     "55": {
-        "Name": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+        "Name": "The Seven Deadly Sins: Heroes' Frolic {ova}",
         "Episodes": 1,
         "Start Date": "02 Nov 2021",
         "End Date": "02 Nov 2021"
     },
     "56": {
-        "Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "Name": "The Seven Deadly Sins: Revival of the Commandments {S3}",
         "Episodes": 24,
         "Start Date": "07 Nov 2021",
         "End Date": "07 Nov 2021"
     },
     "57": {
-        "Name": "Nanatsu no Taizai: Tenk\u00c5\u00ab no Torawarebito",
+        "Name": "The Seven Deadly Sins the Movie 1: Prisoners of the Sky {mov 1}",
         "Episodes": 1,
         "Start Date": "08 Nov 2021",
         "End Date": "08 Nov 2021"
     },
     "58": {
-        "Name": "Nanatsu no Taizai: Seisen no Shirushi",
+        "Name": "The Seven Deadly Sins: Signs of Holy War {S2}",
         "Episodes": 4,
         "Start Date": "08 Nov 2021",
         "End Date": "08 Nov 2021"
     },
     "59": {
-        "Name": "Nanatsu no Taizai: Kanigami no Gekirin",
+        "Name": "The Seven Deadly Sins: Wrath of the Gods {S4}",
         "Episodes": 24,
         "Start Date": "08 Nov 2021",
         "End Date": "10 Nov 2021"
     },
     "60": {
-        "Name": "Nanatsu no Taizai: Fundo no Shinpan",
+        "Name": "The Seven Deadly Sins: Judgement of Fury {S5}",
         "Episodes": 24,
         "Start Date": "10 Nov 2021",
         "End Date": "10 Nov 2021"
@@ -624,7 +624,7 @@
         "End Date": "09 Jun 2023"
     },
     "105": {
-        "Name": "Space Brothers {overview}",
+        "Name": "Space Brothers {start overview}",
         "Episodes": 0,
         "Start Date": "10 Jun 2023",
         "End Date": "10 Jun 2023"
@@ -808,5 +808,47 @@
         "Episodes": 12,
         "Start Date": "23 Jun 2023",
         "End Date": "23 Jun 2023"
+    },
+    "136": {
+        "Name": "The Seven Deadly Sins {S1}",
+        "Episodes": 24,
+        "Start Date": "25 Jun 2023",
+        "End Date": "25 Jun 2023"
+    },
+    "137": {
+        "Name": "The Seven Deadly Sins: Signs of Holy War {S2}",
+        "Episodes": 4,
+        "Start Date": "25 Jun 2023",
+        "End Date": "25 Jun 2023"
+    },
+    "138": {
+        "Name": "The Seven Deadly Sins: Revival of the Commandments {S3}",
+        "Episodes": 24,
+        "Start Date": "25 Jun 2023",
+        "End Date": "25 Jun 2023"
+    },
+    "139": {
+        "Name": "The Seven Deadly Sins the Movie 1: Prisoners of the Sky {mov 2}",
+        "Episodes": 1,
+        "Start Date": "25 Jun 2023",
+        "End Date": "26 Jun 2023"
+    },
+    "140": {
+        "Name": "The Seven Deadly Sins: Wrath of the Gods {S4}",
+        "Episodes": 24,
+        "Start Date": "26 Jun 2023",
+        "End Date": "26 Jun 2023"
+    },
+    "141": {
+        "Name": "The Seven Deadly Sins: Judgement of Fury {S5}",
+        "Episodes": 24,
+        "Start Date": "26 Jun 2023",
+        "End Date": "26 Jun 2023"
+    },
+    "142": {
+        "Name": "The Seven Deadly Sins the Movie 2: Cursed by Light {mov 2}",
+        "Episodes": 1,
+        "Start Date": "26 Jun 2023",
+        "End Date": "26 Jun 2023"
     }
 }
