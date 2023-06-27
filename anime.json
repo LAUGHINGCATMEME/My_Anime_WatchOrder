@@ -834,21 +834,33 @@
         "End Date": "26 Jun 2023"
     },
     "140": {
-        "Name": "The Seven Deadly Sins: Wrath of the Gods {S4}",
-        "Episodes": 24,
+        "Name": "The Seven Deadly Sins: Wrath of the Gods {S4, till ep 16.5}",
+        "Episodes": 15,
         "Start Date": "26 Jun 2023",
         "End Date": "26 Jun 2023"
     },
     "141": {
-        "Name": "The Seven Deadly Sins: Judgement of Fury {S5}",
-        "Episodes": 24,
+        "Name": "Mysterious girlfriend x",
+        "Episodes": 13,
         "Start Date": "26 Jun 2023",
-        "End Date": "26 Jun 2023"
+        "End Date": "27 Jun 2023"
     },
     "142": {
-        "Name": "The Seven Deadly Sins the Movie 2: Cursed by Light {mov 2}",
+        "Name": "Mysterious Girlfriend X: A Mysterious Summer Festival",
         "Episodes": 1,
-        "Start Date": "26 Jun 2023",
-        "End Date": "26 Jun 2023"
+        "Start Date": "27 Jun 2023",
+        "End Date": "27 Jun 2023"
+    },
+    "143": {
+        "Name": "Aho girl",
+        "Episodes": 12,
+        "Start Date": "27 Jun 2023",
+        "End Date": "27 Jun 2023"
+    },
+    "144": {
+        "Name": "Why the hell are you here, Teacher!? Special",
+        "Episodes": 1,
+        "Start Date": "27 Jun 2023",
+        "End Date": "27 Jun 2023"
     }
 }
