@@ -14,9 +14,9 @@ for i, (key, value) in enumerate(data.items(), start=1):
     i = str(i) + ")"
     episodes_text = 'episode' if episodes == 1 else 'episodes'
     if start_date == end_date:
-        line = "{:<4} {:<60} {:<2} {:<15} on {}".format(i, name, episodes, episodes_text, start_date)
+        line = "{:<4} {:<69} {:<2} {:<15} on {}".format(i, name, episodes, episodes_text, start_date)
     else:
-        line = "{:<4} {:<60} {:<2} {:<15} from {} to {}".format(i, name, episodes, episodes_text, start_date, end_date)
+        line = "{:<4} {:<69} {:<2} {:<15} from {} to {}".format(i, name, episodes, episodes_text, start_date, end_date)
     output.append(line)
 
 print('\n'.join(output))
