@@ -179,6 +179,18 @@
         "Start Date": "21 Jul 2021",
         "End Date": "22 Jul 2021"
     },
+    "150": {
+        "Name": "Redo of Healer ",
+        "Episodes": 12,
+        "Start Date": "01 Jan 0001",
+        "End Date": "01 Jan 0001"
+    },
+    "151": {
+        "Name": "Redo of Healer {manga: 4-5 chapters idk}",
+        "Episodes": 0,
+        "Start Date": "01 Jan 0001",
+        "End Date": "01 Jan 0001"
+    },
     "31": {
         "Name": "Plunderer",
         "Episodes": 24,
@@ -384,7 +396,7 @@
         "End Date": "15 Nov 2021"
     },
     "65": {
-        "Name": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+        "Name": "Mob Psycho 100 II: The First Spirits and Such Company Trip",
         "Episodes": 1,
         "Start Date": "15 Nov 2021",
         "End Date": "16 Nov 2021"
@@ -524,13 +536,13 @@
     "88": {
         "Name": "Attack on Titan S4 part 2 {ep 9}",
         "Episodes": 1,
-        "Start Date": "07 Mar 2022",
+        "Start Date": "14 Mar 2022",
         "End Date": "14 Mar 2022"
     },
     "89": {
         "Name": "Attack on Titan S4 part 2 {ep 10}",
         "Episodes": 1,
-        "Start Date": "14 Mar 2022",
+        "Start Date": "17 Mar 2022",
         "End Date": "17 Mar 2022"
     },
     "90": {
@@ -599,6 +611,18 @@
         "Start Date": "11 Apr 2023",
         "End Date": "11 Apr 2023"
     },
+    "149": {
+        "Name": "opm webcomic {voice over from yt}",
+        "Episodes": 0,
+        "Start Date": "12 May 2023",
+        "End Date": "13 May 2023"
+    },
+    "148": {
+        "Name": "opm season overview {only fight scenes}",
+        "Episodes": 0,
+        "Start Date": "13 May 2023",
+        "End Date": "13 May 2023"
+    },
     "101": {
         "Name": "Death Note ep 36 {Real ending}",
         "Episodes": 1,
@@ -607,7 +631,7 @@
     },
     "102": {
         "Name": "Plunderer {Watched all episodes but with very high speed}",
-        "Episodes": 5,
+        "Episodes": 0,
         "Start Date": "09 Jun 2023",
         "End Date": "09 Jun 2023"
     },
@@ -632,6 +656,12 @@
     "106": {
         "Name": "Space Brothers {1-22}",
         "Episodes": 22,
+        "Start Date": "10 Jun 2023",
+        "End Date": "10 Jun 2023"
+    },
+    "133": {
+        "Name": "Redo of Healer",
+        "Episodes": 12,
         "Start Date": "10 Jun 2023",
         "End Date": "10 Jun 2023"
     },
@@ -720,7 +750,7 @@
         "End Date": "18 Jun 2023"
     },
     "121": {
-        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {season 3, till ep 10}",
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {s3, tlep 10}",
         "Episodes": 10,
         "Start Date": "18 Jun 2023",
         "End Date": "18 Jun 2023"
@@ -791,12 +821,6 @@
         "Start Date": "21 Jun 2023",
         "End Date": "21 Jun 2023"
     },
-    "133": {
-        "Name": "Redo of Healer",
-        "Episodes": 12,
-        "Start Date": "10 Jun 2023",
-        "End Date": "10 Jun 2023"
-    },
     "134": {
         "Name": "One Punch Man Specials {s1 ep6}",
         "Episodes": 1,
@@ -862,5 +886,23 @@
         "Episodes": 1,
         "Start Date": "27 Jun 2023",
         "End Date": "27 Jun 2023"
+    },
+    "145": {
+        "Name": "K-ON! {first 5 ep}",
+        "Episodes": 5,
+        "Start Date": "28 Jun 2023",
+        "End Date": "28 Jun 2023"
+    },
+    "146": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {:3:}",
+        "Episodes": 3,
+        "Start Date": "29 Jun 2023",
+        "End Date": "29 Jun 2023"
+    },
+    "147": {
+        "Name": "Landlord's Little Daughter {MANHWA: till chapter 275 [24 hrs]}",
+        "Episodes": 275,
+        "Start Date": "29 Jun 2023",
+        "End Date": "30 Jun 2023"
     }
 }
