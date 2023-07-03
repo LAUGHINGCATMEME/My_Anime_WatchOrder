@@ -84,7 +84,7 @@
         "End Date": "10 Jul 2021"
     },
     "15": {
-        "Name": "Redo of healer S1 {UC}",
+        "Name": "Redo of healer S1 {uncen}",
         "Episodes": 12,
         "Start Date": "10 Jul 2021",
         "End Date": "10 Jul 2021"
@@ -186,7 +186,7 @@
         "End Date": "01 Jan 0001"
     },
     "151": {
-        "Name": "Redo of Healer {manga: 4-5 chapters idk}",
+        "Name": "Redo of Healer {MANGA, 4-5 chapters idk}",
         "Episodes": 0,
         "Start Date": "01 Jan 0001",
         "End Date": "01 Jan 0001"
@@ -198,7 +198,7 @@
         "End Date": "29 Jul 2021"
     },
     "32": {
-        "Name": "Nagasarete Airantou {from 2 till ep 4}",
+        "Name": "Nagasarete Airantou {ep 3 and 4}",
         "Episodes": 2,
         "Start Date": "27 Jul 2021",
         "End Date": "28 Jul 2021"
@@ -804,13 +804,13 @@
         "End Date": "19 Jun 2023"
     },
     "130": {
-        "Name": "No Game, No Life {ep 1 - 6}",
+        "Name": "No Game, No Life {till ep 6}",
         "Episodes": 6,
         "Start Date": "20 Jun 2023",
         "End Date": "20 Jun 2023"
     },
     "131": {
-        "Name": "No Game, No Life {ep 6::}",
+        "Name": "No Game, No Life {from ep 7 to 12}",
         "Episodes": 6,
         "Start Date": "21 Jun 2023",
         "End Date": "21 Jun 2023"
@@ -888,21 +888,93 @@
         "End Date": "27 Jun 2023"
     },
     "145": {
-        "Name": "K-ON! {first 5 ep}",
+        "Name": "K-ON! {till ep 5}",
         "Episodes": 5,
         "Start Date": "28 Jun 2023",
         "End Date": "28 Jun 2023"
     },
     "146": {
-        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {:3:}",
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {till ep 3}",
         "Episodes": 3,
         "Start Date": "29 Jun 2023",
         "End Date": "29 Jun 2023"
     },
     "147": {
-        "Name": "Landlord's Little Daughter {MANHWA: till chapter 275 [24 hrs]}",
+        "Name": "Landlord's Little Daughter {MANHWA: till ch 275}",
         "Episodes": 275,
         "Start Date": "29 Jun 2023",
         "End Date": "30 Jun 2023"
+    },
+    "152": {
+        "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {ep 4 to 11}",
+        "Episodes": 8,
+        "Start Date": "30 Jun 2023",
+        "End Date": "30 Jun 2023"
+    },
+    "153": {
+        "Name": "Demon Slayer {MANGA: ch 125 to 133}",
+        "Episodes": 9,
+        "Start Date": "30 Jun 2023",
+        "End Date": "30 Jun 2023"
+    },
+    "154": {
+        "Name": "Demon Slayer {MANGA: ch 134 to 170}",
+        "Episodes": 37,
+        "Start Date": "01 Jul 2023",
+        "End Date": "01 Jul 2023"
+    },
+    "155": {
+        "Name": "Landlord's Little Daughter {MANHWA: ch 276}",
+        "Episodes": 1,
+        "Start Date": "01 Jul 2023",
+        "End Date": "01 Jul 2023"
+    },
+    "156": {
+        "Name": "One Piece {till ep 19}",
+        "Episodes": 19,
+        "Start Date": "02 Jul 2023",
+        "End Date": "02 Jul 2023"
+    },
+    "157": {
+        "Name": "One Piece Movie 1",
+        "Episodes": 1,
+        "Start Date": "02 Jul 2023",
+        "End Date": "02 Jul 2023"
+    },
+    "158": {
+        "Name": "One Piece {from ep 20 to 34}",
+        "Episodes": 25,
+        "Start Date": "02 Jul 2023",
+        "End Date": "02 Jul 2023"
+    },
+    "159": { 
+        "Name": "One Piece {from ep 35 to 53 excluding 46 and 47}",
+        "Episodes": 17,
+        "Start Date": "03 Jul 2023",
+        "End Date": "03 Jul 2023"
+    },
+    "160": {
+        "Name": "One Piece Movie 2",
+        "Episodes": 1,
+        "Start Date": "03 Jul 2023",
+        "End Date": "03 Jul 2023"
+    },
+    "161": {
+        "Name": "One Piece {from ep 62 to 78}",
+        "Episodes": 17,
+        "Start Date": "03 Jul 2023",
+        "End Date": "03 Jul 2023"
+    },
+    "162": {
+        "Name": "One Piece {from ep 79 to 91}",
+        "Episodes": 13,
+        "Start Date": "04 Jul 2023",
+        "End Date": "04 Jul 2023"
+    },
+    "160": {
+        "Name": "One Piece Movie 3",
+        "Episodes": 1,
+        "Start Date": "04 Jul 2023",
+        "End Date": "04 Jul 2023"
     }
 }
