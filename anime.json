@@ -971,9 +971,21 @@
         "Start Date": "04 Jul 2023",
         "End Date": "04 Jul 2023"
     },
-    "160": {
-        "Name": "One Piece Movie 3",
+    "163": {
+        "Name": "Kakegurui: Compulsive Gambler {S1}",
+        "Episodes": 12,
+        "Start Date": "04 Jul 2023",
+        "End Date": "04 Jul 2023"
+    },
+    "164": {
+        "Name": "One Piece Movie 9",
         "Episodes": 1,
+        "Start Date": "04 Jul 2023",
+        "End Date": "04 Jul 2023"
+    },
+    "165": {
+        "Name": "One Piece {from ep 92 to 130}",
+        "Episodes": 39,
         "Start Date": "04 Jul 2023",
         "End Date": "04 Jul 2023"
     }
