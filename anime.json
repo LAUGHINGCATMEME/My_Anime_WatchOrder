@@ -1002,7 +1002,7 @@
         "End Date": "05 Jul 2023"
     },
     "168": {
-        "Name": "Kakegurui: Compulsive Gambler Picture Drama",
+        "Name": "Kakegurui: Compulsive Gambler Picture Drama {Ovas}",
         "Episodes": 3,
         "Start Date": "05 Jul 2023",
         "End Date": "05 Jul 2023"
@@ -1012,5 +1012,71 @@
         "Episodes": 12,
         "Start Date": "05 Jul 2023",
         "End Date": "05 Jul 2023"
+    },
+    "170": {
+        "Name": "Kakegurui: Compulsive Gambler 2nd Season {ep 9.5 - 12}",
+        "Episodes": 3,
+        "Start Date": "06 Jul 2023",
+        "End Date": "06 Jul 2023"
+    },
+    "171": {
+        "Name": "Insomniacs After School {till ep 9}",
+        "Episodes": 9,
+        "Start Date": "06 Jul 2023",
+        "End Date": "07 Jul 2023"
+    },
+    "172": {
+        "Name": "One Piece {ep 145}",
+        "Episodes": 1,
+        "Start Date": "07 Jul 2023",
+        "End Date": "07 Jul 2023"
+    },
+    "173": {
+        "Name": "One Piece {ep 146 - 170}",
+        "Episodes": 25,
+        "Start Date": "09 Jul 2023",
+        "End Date": "09 Jul 2023"
+    },
+    "174": {
+        "Name": "One Piece {ep 171 - 195, 207 - 219}",
+        "Episodes": 38,
+        "Start Date": "10 Jul 2023",
+        "End Date": "10 Jul 2023"
+    },
+    "175": {
+        "Name": "One Piece {ep 229 - 278, 284 - 290, 293 - 302}",
+        "Episodes": 67,                                                        
+        "Start Date": "11 Jul 2023",
+        "End Date": "11 Jul 2023"
+    },
+    "176": {
+        "Name": "One Piece {ep 304 - 316, 320 - 325, 337 - 381}",
+        "Episodes": 64,                                                        
+        "Start Date": "12 Jul 2023",
+        "End Date": "12 Jul 2023"
+    },
+    "177": {
+        "Name": "One Piece {ep 382 - 405, 408 - 421, 453 - 456,  422 - 425, 430 - 452}",
+        "Episodes": 69,                                           
+        "Start Date": "13 Jul 2023",
+        "End Date": "13 Jul 2023"
+    },
+    "178": {	
+        "Name": "One Piece {ep 459 - 558}",
+        "Episodes": 100,                                                        
+        "Start Date": "14 Jul 2023",
+        "End Date": "14 Jul 2023"
+    },
+    "179": {
+        "Name": "One Piece {ep 559 - 574, 579 - 625, 629 - }",
+        "Episodes": 0,                                                 
+        "Start Date": "15 Jul 2023",
+        "End Date": "15 Jul 2023"
+    },
+    "180": {
+        "Name": "Insomniacs After School {from ep 10 to 13}",
+        "Episodes": 4,
+        "Start Date": " Jul 2023",
+        "End Date": " Jul 2023"
     }
 }
