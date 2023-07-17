@@ -1068,12 +1068,30 @@
         "End Date": "14 Jul 2023"
     },
     "179": {
-        "Name": "One Piece {ep 559 - 574, 579 - 625, 629 - }",
-        "Episodes": 0,                                                 
+        "Name": "One Piece {ep 559 - 574, 579 - 598}",
+        "Episodes": 36,                                                 
         "Start Date": "15 Jul 2023",
         "End Date": "15 Jul 2023"
     },
     "180": {
+        "Name": "One Piece {ep 599 - 600}",
+        "Episodes": 2,                                                 
+        "Start Date": "16 Jul 2023",
+        "End Date": "16 Jul 2023"
+    },
+    "181": {
+        "Name": "One Piece {ep 601 - 625, 629 - 675}",
+        "Episodes": 72,                                                 
+        "Start Date": "17 Jul 2023",
+        "End Date": "17 Jul 2023"
+    },
+    "182": {
+        "Name": "One Piece {ep 676 - 746}",
+        "Episodes": 71,                                                 
+        "Start Date": "18 Jul 2023",
+        "End Date": "18 Jul 2023"
+    },
+    "18": {
         "Name": "Insomniacs After School {from ep 10 to 13}",
         "Episodes": 4,
         "Start Date": " Jul 2023",
