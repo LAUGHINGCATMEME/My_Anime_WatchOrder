@@ -1104,9 +1104,57 @@
         "End Date": "20 Jul 2023"
     },
     "185": {
+        "Name": "One Piece {ep 890 - 894, 897 - 906, 908 - 930}",
+        "Episodes": 38,                                                 
+        "Start Date": "21 Jul 2023",
+        "End Date": "21 Jul 2023"
+    },
+    "186": {
+        "Name": "One Piece {ep 931 - 1000}",
+        "Episodes": 70,                                                 
+        "Start Date": "22 Jul 2023",
+        "End Date": "22 Jul 2023"
+    },
+    "187": {
+        "Name": "One Piece {ep 1001 - 1064}",
+        "Episodes": 64,                                                 
+        "Start Date": "23 Jul 2023",
+        "End Date": "23 Jul 2023"
+    },
+    "188": {
+        "Name": "One Piece {ep 1065 - 1069}",
+        "Episodes": 5,                                                 
+        "Start Date": "24 Jul 2023",
+        "End Date": "24 Jul 2023"
+    },
+    "189": {
+        "Name": "One Piece {MANGA ch 1041 - 1059, coloured}",
+        "Episodes": 19 ,                                                 
+        "Start Date": "24 Jul 2023",
+        "End Date": "24 Jul 2023"
+    },
+    "190": {
+        "Name": "One Piece {ep 1 - 4}",
+        "Episodes": 4,                                                 
+        "Start Date": "25 Jul 2023",
+        "End Date": "25 Jul 2023"
+    },
+    "191": {
+        "Name": "One Piece {MOVIES: 5, 6, 7, 10, 12}",
+        "Episodes": 5,                                                 
+        "Start Date": "25 Jul 2023",
+        "End Date": "25 Jul 2023"
+    },
+    "192": {
+        "Name": "One Piece {MOVIES: 13, 14}",
+        "Episodes": 2,                                                 
+        "Start Date": "26 Jul 2023",
+        "End Date": "26 Jul 2023"
+    },
+    "193": {
         "Name": "Insomniacs After School {from ep 10 to 13}",
         "Episodes": 4,
-        "Start Date": " Jul 2023",
-        "End Date": " Jul 2023"
+        "Start Date": "28 Jul 2023",
+        "End Date": "28 Jul 2023"
     }
 }

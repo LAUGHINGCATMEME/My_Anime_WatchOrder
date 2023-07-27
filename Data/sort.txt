@@ -1,7 +1,7 @@
 ﻿-------------------------------------------S--------------------------------------------
 Space Brothers
-Attack on Titan
 One Piece
+Attack on Titan
 Death Note
 Fullmetal Alchemist Brotherhood
 Your Lie in April
@@ -9,8 +9,8 @@ The Future Diary
 Assassination Classroom
 Code Geass
 Steins;Gate
-Kakegurui
 -------------------------------------------A--------------------------------------------
+Kakegurui
 The Seven Deadly Sins
 Your Name
 Demon Slayer
