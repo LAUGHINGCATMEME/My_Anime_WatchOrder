@@ -898,13 +898,7 @@
         "Episodes": 3,
         "Start Date": "29 Jun 2023",
         "End Date": "29 Jun 2023"
-    },
-    "147": {
-        "Name": "Landlord's Little Daughter {MANHWA: till ch 275}",
-        "Episodes": 275,
-        "Start Date": "29 Jun 2023",
-        "End Date": "30 Jun 2023"
-    },
+    }
     "152": {
         "Name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc {ep 4 to 11}",
         "Episodes": 8,
@@ -922,13 +916,7 @@
         "Episodes": 37,
         "Start Date": "01 Jul 2023",
         "End Date": "01 Jul 2023"
-    },
-    "155": {
-        "Name": "Landlord's Little Daughter {MANHWA: ch 276}",
-        "Episodes": 1,
-        "Start Date": "01 Jul 2023",
-        "End Date": "01 Jul 2023"
-    },
+    }
     "156": {
         "Name": "One Piece {till ep 19}",
         "Episodes": 19,
@@ -1206,7 +1194,7 @@
         "End Date": "3 Aug 2023"
     },
     "202": {
-        "Name": "One Piece {main last parts of ep 1070 and 968 at least 17 times}",
+        "Name": "One Piece {main last parts of ep 1070 and 968 at least 17 times each}",
         "Episodes": 0,
         "Start Date": "30 Jul 2023",
         "End Date": "5 Aug 2023"
@@ -1240,5 +1228,89 @@
         "Episodes": 1,
         "Start Date": "8 Aug 2023",
         "End Date": "8 Aug 2023"
+    },
+    "208": {
+        "Name": "Bleach {till ep 6}",
+        "Episodes": 6,
+        "Start Date": "8 Aug 2023",
+        "End Date": "9 Aug 2023"
+    },
+    "209": {
+        "Name": "One Piece {ep 1073 * 3 times}",
+        "Episodes": 3,
+        "Start Date": "13 Aug 2023",
+        "End Date": "13 Aug 2023"
+    },
+    "210": {
+        "Name": "Bleach {ep 7 - 11}",
+        "Episodes": 5,
+        "Start Date": "17 Aug 2023",
+        "End Date": "17 Aug 2023"
+    },
+    "211": {
+        "Name": "Bleach {ep 12 - 13}",
+        "Episodes": 2,
+        "Start Date": "18 Aug 2023",
+        "End Date": "18 Aug 2023"
+    },
+    "212": {
+        "Name": "One Piece {ep 1074}",
+        "Episodes": 1,
+        "Start Date": "20 Aug 2023",
+        "End Date": "20 Aug 2023"
+    },
+    "213": {
+        "Name": "Dr. Stone",
+        "Episodes": 24,
+        "Start Date": "20 Aug 2023",
+        "End Date": "21 Aug 2023"
+    },
+    "214": {
+        "Name": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+        "Episodes": 1,
+        "Start Date": "21 Aug 2023",
+        "End Date": "21 Aug 2023"
+    },
+    "215": {
+        "Name": "Dr. Stone: Stone Wars {S-2}",
+        "Episodes": 6,
+        "Start Date": "22 Aug 2023",
+        "End Date": "22 Aug 2023"
+    },
+    "216": {
+        "Name": "One Piece {ep 1074}",
+        "Episodes": 1,
+        "Start Date": "03 Sep 2023",
+        "End Date": "03 Sep 2023"
+    },
+    "217": {
+        "Name": "Cyberpunk: Edgerunners",
+        "Episodes": 10,
+        "Start Date": "09 Sep 2023",
+        "End Date": "09 Sep 2023"
+    },
+    "218": {
+        "Name": "One Piece {ep 1075}",
+        "Episodes": 1,
+        "Start Date": "10 Sep 2023",
+        "End Date": "10 Sep 2023"
+    },
+    "219": {
+        "Name": "One Piece {ep 1076}",
+        "Episodes": 1,
+        "Start Date": "17 Sep 2023",
+        "End Date": "17 Sep 2023"
+    },
+    "220": {
+        "Name": "One Piece {ep 1077}",
+        "Episodes": 1,
+        "Start Date": "25 Sep 2023",
+        "End Date": "25 Sep 2023"
+    },
+    "221": {
+        "Name": "Classroom of the Elite",
+        "Episodes": 12,
+        "Start Date": "29 Sep 2023",
+        "End Date": "29 Sep 2023"
     }
 }
