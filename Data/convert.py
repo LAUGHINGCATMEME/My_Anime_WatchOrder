@@ -1,7 +1,7 @@
 import json
 
 # Read the JSON file
-with open(r'..\anime.json') as file:
+with open(r'/home/LCM/Desktop/GitHub/Anime/anime.json') as file:
     data = json.load(file)
 
 # Convert the data to the desired format
