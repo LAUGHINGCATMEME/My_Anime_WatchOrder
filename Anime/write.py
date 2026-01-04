@@ -55,7 +55,7 @@ def add_anime():
     # Write the data
     with open(file_path, 'r') as file:
         data = json.load(file)
-    next_key = str(len(data) + 1)
+    next_key = str(max(map(int, data.keys())) + 1)
     new_entry = {
         "Name": name,
         "Episodes": episodes,
